@@ -1,0 +1,3 @@
+[submodule "merge-mergesort/exercise"]
+	path = merge-mergesort/exercise
+	url = git@github.com:divya-gariga/exercise.git
